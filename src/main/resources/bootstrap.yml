@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: course-details
+  cloud:
+    vault:
+      uri: http://localhost:8200
+      token: s.cwRJgYPmVOYcK5RLtEnQL6jS
